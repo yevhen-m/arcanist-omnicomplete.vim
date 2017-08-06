@@ -1,8 +1,6 @@
 import json
 import urllib2
 
-import vim
-
 
 class BaseConduitClient(object):
 
