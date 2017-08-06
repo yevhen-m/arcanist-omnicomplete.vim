@@ -1,4 +1,4 @@
-" Vim global plugin for correcting typing mistakes
+" Vim plugin to complete reviewers in `arcanistdiff` buffers.
 " License:	This file is placed in the public domain.
 
 if exists("g:loaded_arcanist_omnicomplete")

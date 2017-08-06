@@ -1,4 +1,4 @@
-# arcanist-omnicomplete
+# arcanist-omnicomplete.vim
 
 Completion for reviewers in `arcanistdiff` buffers.
 
