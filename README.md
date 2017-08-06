@@ -6,7 +6,7 @@ Completion for reviewers in `arcanistdiff` buffers.
 
 This plugin:
 
-- depends on `'solarnz/arcanist.vim'` plugin.
+- depends on [solarnz/arcanist.vim](https://github.com/solarnz/arcanist.vim) plugin.
 - requires vim with python support
 
 Set these variables in your `vimrc` file:
